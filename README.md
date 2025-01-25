@@ -64,5 +64,10 @@ These challenges can be addressed only by trail and error only.
 II.HOSTING AND DEPLOYMENT
 The Hosting and Deployment is done from Github Pages.
 The Output is not Achieved.
-
-
+III.CODE REPOSITORY AND GITHUB RULES
+REPOSITORY SETUP:
+git clone https://github.com/DHRUVIN-SAI/ImageToText.git
+Using this in Google collab to input text to image generation
+BRANCHING:
+USING ONLY MAIN
+------------------------------------------------------------------------xxxxxxxxxxxxxxxxxxxxxxxx------------------------------------------------------------------------------
