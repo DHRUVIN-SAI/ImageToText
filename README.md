@@ -1,4 +1,4 @@
-                                                         AI-Powered Story Generator for Kids Using Images as Input
+                                                AI-Powered Story Generator for Kids Using Images as Input
 A.PROJECT OVERVIEW
 PROBLEM STATEMENT SOLUTION: To use object detection tools,NLP Tools,converting .text files to .mp4 to give an modulated audio.
 OBJECTIVE:To make an AI-Generated Image to Story for kids in a fun tone.
